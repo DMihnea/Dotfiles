@@ -1,0 +1,7 @@
+[user]
+	name = DMihnea
+	email = mihnea-gabriel.doica@merton.ox.ac.uk
+[color]
+	ui = true
+[core]
+	editor = vim
